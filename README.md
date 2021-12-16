@@ -1,4 +1,4 @@
-## Olá, eu sou Daniel Oliveira!👋😉
+## Olá, eu sou o Daniel Oliveira!👋😉
 
 - 🔭 Sou Engenheiro de Controle e Automação em transição de carreira para a area de TI
 - 🌱 Atualmente estou estudando Desenvolvimento Full Stack
