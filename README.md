@@ -15,6 +15,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dan-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Dan-HTML" height="60" widht="70" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+  <img align="center" alt="Dan-HTML" height="60" widht="70" src="https://img.icons8.com/color/48/000000/css3.png">
+  <img align="center" alt="Dan-HTML" height="60" widht="70" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
 </div>
 
 ## 
