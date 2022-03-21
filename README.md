@@ -1,6 +1,6 @@
 ## Olá, eu sou o Daniel Oliveira!👋😉
 
-- 🔭 Sou Engenheiro de Controle e Automação em transição de carreira para a area de TI
+- 🔭 Desenvolvedor Front-End Junior
 - 🌱 Atualmente estou estudando Desenvolvimento Full Stack
 - 📫 Contate-me no e-mail: danielroliveira.dev@gmail.com
 - 😄 Pronouns: ele/dele
