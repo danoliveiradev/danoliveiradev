@@ -1,6 +1,6 @@
 ## Olá, eu sou o Daniel Oliveira!👋😉
 
-- 🔭 Desenvolvedor Front-End Junior
+- 🔭 Estudante de Desenvolvimento Web
 - 📫 Contate-me no e-mail: danielroliveira.dev@gmail.com
 - 😄 Pronouns: ele/dele
 
