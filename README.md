@@ -1,7 +1,6 @@
 ## Olá, eu sou o Daniel Oliveira!👋😉
 
 - 🔭 Estudante de Desenvolvimento Web
-- 📫 Contate-me no e-mail: danielroliveira.dev@gmail.com
 - 😄 Pronouns: ele/dele
 
 ##
@@ -20,13 +19,12 @@
 
 ## Estudos
 
-`Atualmente estudando:` Acessibilidade Web e praticando HTML e CSS com pequenos projetos.
+`Atualmente estudando:` JavaScript
 
 ## 
 ### Contatos:
 
 <div> 
-  <a href = "mailto:danielroliveira.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/daniel-rafael-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/danoliveiradev/danoliveiradev/blob/output/github-contribution-grid-snake.svg)
