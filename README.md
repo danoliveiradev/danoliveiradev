@@ -1,6 +1,6 @@
 ## Olá, eu sou o Daniel Oliveira!👋😉
 
-- 🔭 Estudante de Desenvolvimento Web
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 ##
