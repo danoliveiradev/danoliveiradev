@@ -26,7 +26,7 @@
 
 ## Estudos
 
-`Atualmente estudando:` Técnologo em Desenvolvimento Web
+`Atualmente estudando:` Análise de Dados com Python
 
 ## 
 ### Contatos:
