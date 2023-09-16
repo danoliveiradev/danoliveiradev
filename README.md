@@ -26,7 +26,7 @@
 
 ## Estudos
 
-`Atualmente estudando:` Análise de Dados com Python
+`Atualmente estudando:` PHP e Framework Symfony
 
 ## 
 ### Contatos:
