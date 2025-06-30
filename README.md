@@ -1,6 +1,6 @@
 ## Olá, eu sou o Daniel Oliveira!👋😉
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
+- Profissional da área de tecnologia graduado em Engenharia de Controle e Automação e graduado em Análise e Desenvolvimento de Sistemas. Com perfil orientado à resultados, capacidade analítica, resolução de problemas e boa comunicação interpessoal
 - 😄 Pronouns: ele/dele
 
 ##
@@ -11,27 +11,23 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dan-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="HTML" height="60" widht="70" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
-  <img align="center" alt="CSS" height="60" widht="70" src="https://img.icons8.com/color/48/000000/css3.png">
-  <img align="center" alt="JavaScript" height="60" widht="70" src="https://img.icons8.com/color/48/000000/javascript.png">
+  <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Postrgre" height="60" widht="70" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000">
+  <img align="center" alt="SQL Server" height="60" widht="70" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000">
+  <img align="center" alt="PowerBI" height="60" widht="70" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
   <img align="center" alt="Git" height="60" widht="70" src="https://img.icons8.com/color/48/000000/git.png">
+  <img align="center" alt="RabbitMQ" height="60" widht="70" src="https://img.icons8.com/?size=100&id=942&format=png&color=FFFFFF">
 </div>
   
-## Portfólio
-  
-  <div> 
-  <a href="https://danoliveiradev.github.io/portfolio-pessoal/" target="_blank"><img src="https://img.shields.io/badge/Site-Portfólio Pessoal-orange" target="_blank"></a> 
-
 ## Estudos
 
-`Atualmente estudando:` PHP e Framework Symfony
+`Atualmente estudando:` Power BI, Apache Spark e Kafka
 
 ## 
 ### Contatos:
 
 <div> 
-  <a href="https://www.linkedin.com/in/daniel-rafael-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/danielroliveiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/danoliveiradev/danoliveiradev/blob/output/github-contribution-grid-snake.svg)
