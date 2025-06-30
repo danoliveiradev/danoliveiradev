@@ -15,6 +15,7 @@
   <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Postrgre" height="60" widht="70" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000">
   <img align="center" alt="SQL Server" height="60" widht="70" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000">
+  <img align="center" alt="Excel" height="60" widht="70" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000">
   <img align="center" alt="PowerBI" height="60" widht="70" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
   <img align="center" alt="Git" height="60" widht="70" src="https://img.icons8.com/color/48/000000/git.png">
   <img align="center" alt="RabbitMQ" height="60" widht="70" src="https://img.icons8.com/?size=100&id=942&format=png&color=FFFFFF">
